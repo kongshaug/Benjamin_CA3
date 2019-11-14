@@ -2,7 +2,7 @@ package rest;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import DTO.PersonDTO;
+import DTO.QuoteDTO;
 import entities.User;
 import errorhandling.NotFoundException;
 import facades.DataFacade;

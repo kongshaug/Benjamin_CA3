@@ -1,0 +1,5 @@
+facades/UserFacadeTest.class
+rest/QuoteResourceTest.class
+rest/LoginEndpointTest.class
+utils/SettingsTest.class
+facades/DataFacadeTest.class
